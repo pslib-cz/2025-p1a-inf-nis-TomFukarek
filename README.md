@@ -1,0 +1,1 @@
+# Téma: Školní evidence tříd a konkrétních studentů
