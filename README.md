@@ -51,3 +51,8 @@ EduRegistry je proaktivní školní informační systém navržený jako alterna
 * Generování klasických výpisů prospěchu do PDF.
 * Exporty do CSV / Excel pro potřeby školní matriky.
 * **Výstup pro rodiče:** Grafický přehled vývoje (trendu) žáka namísto pouhého seznamu známek.
+
+
+**Markdown**
+  ---
+[Zobrazit kompletní Katalog požadavků](POZADAVKY.md)
